@@ -22,4 +22,6 @@ I am a Full Stack Developer and AI Engineer with hands-on experience building sc
 ![](https://github-contributor-stats.vercel.app/api?username=zain1781&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zain1781&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://komarev.com/ghpvc/?username=zain1781&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
